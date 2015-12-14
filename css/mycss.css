@@ -1,0 +1,27 @@
+/*
+li {
+    border:.1em solid #0e76ac;   
+}
+*/
+
+
+/*thunb nail*/
+li.ui-li-has-thumb img{
+    margin:10px;
+}
+
+
+#partyPageName {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#partyPageExp{
+    font-size: 13px;
+    color: gray;
+}
+
+#partyPageLoc,#partyPageDate {
+    font-size:10px;
+}
+
